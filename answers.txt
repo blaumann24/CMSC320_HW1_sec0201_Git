@@ -9,3 +9,8 @@ Q2: What field could data science be applied to? Give an example.
 Answer: Data science could be applied to business fields, like finance.
 For example, a data scientist for a financy company might be in charge of risk analysis.
 
+
+Q3: What is the difference between Mergine and Rebasing?
+
+Answer: Merging combines two branches, while preserving the history of both branches. 
+Rebasing applies changes from one branch to another, while rewriting the commit history. 
